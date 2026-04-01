@@ -5,7 +5,7 @@
 - A Telegram account
 - Python 3.8 or higher installed on your computer
 - App `api_id` and App `api_hash` from [my.telegram.org/apps](https://my.telegram.org/apps)
-- Telethon library (`pip install telethon`)
+- Telethon and Colorama libraries (`pip install telethon && pip install Colorama`)
 ### Step 1: Download or clone the repository
 ### Step 2: Install dependencies(pip install telethon)
 ### Step 3: Open `PYCLIGram.py` in your preferred editor
