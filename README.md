@@ -1,6 +1,7 @@
 # PYCLIGram
 ## A simple Telegram CLI client written in Python
 # Works on every OS with Python and required libraries
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/oversouth/PYCLIGram?utm_source=oss&utm_medium=github&utm_campaign=oversouth%2FPYCLIGram&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 # Getting started
 ## You will need:
 - A Telegram account
